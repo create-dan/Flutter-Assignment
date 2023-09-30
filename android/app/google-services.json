@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093125233535",
+    "project_id": "blackcoffer-flutter-4163b",
+    "storage_bucket": "blackcoffer-flutter-4163b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093125233535:android:0372e31fdc6dc3cb2dd84a",
+        "android_client_info": {
+          "package_name": "com.example.blackcoffer_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJEt9Y_TpXKnUfSFbQ9WS16l2feMqSiEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
